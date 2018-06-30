@@ -30,6 +30,24 @@
 				<Prp name="relpath" type="S" value="6_24_2018_12_51 PM_16_425\Description.tcLog"/>
 				<Prp name="status" type="I" value="1"/>
 			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="43281.7897763426"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6C278C3D-537D-4C71-A669-B56A42CF5DA8}"/>
+				<Prp name="nameofroot" type="S" value="suite1"/>
+				<Prp name="relpath" type="S" value="6_30_2018_6_57 PM_16_676\Description.tcLog"/>
+				<Prp name="status" type="I" value="1"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="43281.7926452199"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{72CAC170-C128-4186-8B11-082DC0D39CEE}"/>
+				<Prp name="nameofroot" type="S" value="suite1"/>
+				<Prp name="relpath" type="S" value="6_30_2018_7_01 PM_24_547\Description.tcLog"/>
+				<Prp name="status" type="I" value="1"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{6511DB44-2372-47B8-8349-ADA0DB4D9E14}"/>
 		<Prp name="version" type="S" value="11.0"/>
